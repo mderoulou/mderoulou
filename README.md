@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋
+![Mderoulou's GitHub stats](https://github-readme-stats.vercel.app/api?username=mderoulou&show_icons=true&theme=dracula&count_private=true&hide=issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mderoulou&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mderoulou/mderoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
